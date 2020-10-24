@@ -1,1 +1,1 @@
-My test c project
+I just testing out c
